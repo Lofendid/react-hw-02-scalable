@@ -1,0 +1,20 @@
+.list {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  flex-direction: row;
+  row-gap: 0.2rem;
+  column-gap: 0.4rem;
+  margin-bottom: 2rem;
+}
+
+.summary {
+  font-weight: bold;
+  font-size: larger;
+  text-align: center;
+}
+
+.accent {
+  color: blueviolet;
+}
